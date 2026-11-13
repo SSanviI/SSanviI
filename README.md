@@ -26,7 +26,7 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+<img src="https://skillicons.dev/icons?i=python,js" />
 
 ### AI / ML & Data Science
 
