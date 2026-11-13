@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 # Hi 👋, I'm Sanvi!
 
@@ -14,7 +15,7 @@
 
 - 🎓 Final-year AI & ML Engineering student.
 - 💻 Interested in Software Development, AI/ML and Agentic AI.
-- 🚀 Love building real-world projects and solving problems.
+- 🚀 Passionate about building real-world applications and solving problems.
 - 🌱 Continuously learning and exploring new technologies.
 - 🤝 Open to opportunities, collaboration and learning.
 
@@ -26,7 +27,7 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 
 ### AI / ML & Data Science
 
@@ -44,14 +45,16 @@
 
 ---
 
-## 🚀 Major Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🚗 **AI-Based Predictive Vehicle Maintenance** | Agentic AI platform for vehicle diagnostics, predictive maintenance and explainability. |
-| 🛍️ **ShopSense AI** | AI-powered shopping assistant using Gemini Vision AI and LangGraph. |
-| 🔐 **KingPhisher** | Phishing detection system using machine learning and OCR. |
+### 🚗 AI-Based Predictive Vehicle Maintenance
+An agentic AI platform for vehicle diagnostics, predictive maintenance and explainable insights.
 
+### 🛍️ ShopSense AI
+An AI-powered shopping assistant using Gemini Vision AI, LangGraph and SerpAPI.
+
+### 🔐 KingPhisher – Phishing Detection System
+A phishing detection solution using machine learning, OCR and browser integration.
 
 ---
 
@@ -63,13 +66,10 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSanvil&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=SSanvil&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-<div align="center">
 
 ### ✨ "Building today what inspires tomorrow."
 
