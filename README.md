@@ -44,14 +44,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Major Projects
 
 | Project | Description |
 |---|---|
 | 🚗 **AI-Based Predictive Vehicle Maintenance** | Agentic AI platform for vehicle diagnostics, predictive maintenance and explainability. |
 | 🛍️ **ShopSense AI** | AI-powered shopping assistant using Gemini Vision AI and LangGraph. |
 | 🔐 **KingPhisher** | Phishing detection system using machine learning and OCR. |
-| ⚙️ **WorkflowOS** | AI-powered workflow automation across applications. |
+
 
 ---
 
