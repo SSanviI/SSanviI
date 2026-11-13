@@ -5,7 +5,7 @@
 
 <b>AI & ML Engineer | Software Developer</b>
 
-<p>Building intelligent applications with AI, ML & modern technologies.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8B7CF6&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Exploring+AI+%26+Machine+Learning;Creating+real-world+solutions;Always+learning+and+growing" />
 
 <img src="https://skillicons.dev/icons?i=python,java,c,react,flask,fastapi,tensorflow,pytorch,mysql,postgres,docker,aws&perline=12" height="35"/>
 
