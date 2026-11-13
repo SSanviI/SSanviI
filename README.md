@@ -5,7 +5,7 @@
 
 **AI & ML Engineering Student | Software Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B7CF6&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;Exploring+Machine+Learning;Turning+ideas+into+reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B7CF6&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Exploring+Machine+Learning;Turning+ideas+into+reality" />
 
 📍 Bengaluru, India
 
